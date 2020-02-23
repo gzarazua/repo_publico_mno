@@ -1,4 +1,4 @@
-FROM palmoreck/jupyterlab_r_kernel_tidyverse:1.1.0
+FROM palmoreck/jupyterlab_r_kernel_tidyverse_binder:1.1.0
 #FROM palmoreck/jupyterlab_r_kernel_binder:1.1.0
 ARG NB_USER=jovyan
 ARG NB_UID=1000
